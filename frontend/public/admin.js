@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const articlesListBody = document.getElementById('articles-list-body');
   
   // Ganti dengan URL backend Anda setelah di-deploy ke Vercel!
-  const API_URL = 'https://smaink.vercel.app/api/posts';
+  const API_URL = 'https://smaink.vercel.app/backend/api/posts';
   // Contoh: https://nurul-khalil-backend.vercel.app/api/posts
   
   // --- Fungsi untuk Menampilkan Pesan ---
